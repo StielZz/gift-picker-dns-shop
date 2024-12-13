@@ -9,8 +9,8 @@
 
 ### 1. Клонируйте репозиторий
 ```
-git clone <URL-репозитория>
-cd <папка-репозитория>
+git clone https://github.com/StielZz/gift-picker-dns-shop
+cd gift-picker-dns-shop
 ```
 
 ### 2. Установите зависимости
