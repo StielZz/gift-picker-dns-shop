@@ -36,10 +36,8 @@ npm start
 ```
 📦 project-root
 ├── app/                  # Основная логика приложения
-├── node_modules/         # Зависимости Node.js
 ├── public/               # Статические файлы (база данных)
 ├── python/               # Парсер DNS и SQL-скрипт для создания базы данных 
-├── .gitignore            # Игнорируемые файлы
 ├── package.json          # Описание проекта и зависимости
 ├── package-lock.json     # Фиксация версий зависимостей
 ├── postcss.config.js     # Настройка PostCSS
